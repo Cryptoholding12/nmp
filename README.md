@@ -1,1 +1,1 @@
-#tea.nmp
+#tea.yaml
